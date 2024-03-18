@@ -5,6 +5,11 @@ https://www.youtube.com/watch?v=Cc2VF1QHnZo
 Portal is a C++ terminal game for Windows, developed using linked lists as a data structure. The game supports both single-player and multiplayer features.
 
 ### Gameplay
+#### Screenshots
+![App Screenshot](/screenshots/screenshot1.png)
+![App Screenshot](/screenshots/screenshot2.png)
+![App Screenshot](/screenshots/screenshot3.png)
+
 #### Objective
 The goal for each player is reach to 200 of Stardust without going down to less than 5 of Stardust, being this the Minimum Amount of Stardust to invest.
 #### Portals
